@@ -1,3 +1,10 @@
+// half pyramid 
+
+// *
+// **
+// ***
+// ****
+// *****
 import java.util.*;
 public class Pattern2
 {
