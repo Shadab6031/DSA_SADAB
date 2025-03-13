@@ -11,7 +11,7 @@ public class ArrayFunction
     public static void main(String[] args) 
     {
         Scanner s = new Scanner(System.in);
-        System.out.print("enter size of array - ");
+        System.out.print("enter number of students - ");
         int n=s.nextInt();
         int[] marks =new int[n];
         System.out.println("enter marks - ");
