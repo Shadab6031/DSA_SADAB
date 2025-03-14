@@ -9,7 +9,7 @@ public class Array
         int [] arr = new int[n];
          // arr[0]=5;
         // arr[1]=467;
-        // arr[2]=89;
+        // arr[2]=89;''
         // arr[3]=69;
         // arr[4]=139;
     System.out.println("enter array elements");
