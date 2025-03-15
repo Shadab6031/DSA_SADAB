@@ -1,5 +1,5 @@
 import java.util.*;
-public class ArrayFunction 
+public class ArraysFunction 
 {
     public static void Update(int[]marks)
     {
