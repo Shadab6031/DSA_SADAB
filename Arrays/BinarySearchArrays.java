@@ -25,7 +25,7 @@ public class BinarySearchArrays
     public static void main(String[] args) 
     {
         int[] arr = new int[]{1,3,4,5,20};
-        int key =9;
+        int key =4;
           int index=binary(key ,arr);
             if(index ==-1)
             {
