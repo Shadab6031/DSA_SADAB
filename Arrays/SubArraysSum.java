@@ -23,7 +23,7 @@ public class SubArraysSum
            }
          }
       }
-      System.out.println(maxSum);
+      System.out.println("maximum sum is"+maxSum);
    }
    public static void main(String[] args) 
    {
